@@ -2,6 +2,7 @@ package GrokkingTheCodingInterview.SlidingWindow;
 
 import java.util.*;
 
+// Only two basket available
 class MaxFruitCountOf2Types {
   public static int findLength(char[] arr) {
     
