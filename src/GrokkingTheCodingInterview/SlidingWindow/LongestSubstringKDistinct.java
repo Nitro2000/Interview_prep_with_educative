@@ -1,4 +1,4 @@
-package SlidingWindow;
+package GrokkingTheCodingInterview.SlidingWindow;
 
 import java.util.*;
 

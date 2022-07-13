@@ -1,4 +1,4 @@
-package SlidingWindow;
+package GrokkingTheCodingInterview.SlidingWindow;
 
 class MaxSumSubArrayOfSizeK {
   public static int findMaxSumSubArray(int k, int[] arr) {

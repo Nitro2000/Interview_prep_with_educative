@@ -1,4 +1,4 @@
-import SlidingWindow.LongestSubstringKDistinct;
+import GrokkingTheCodingInterview.SlidingWindow.LongestSubstringKDistinct;
 
 import java.util.Scanner;
 
